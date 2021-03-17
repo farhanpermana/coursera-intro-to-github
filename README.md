@@ -1,2 +1,3 @@
 # coursera-intro-to-github
-this is a description.
+I am editing the README file. Adding some more details about the project description.
+
